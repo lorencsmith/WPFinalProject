@@ -1,6 +1,6 @@
 body {
 	background: #d9d9d9;
-	height: 1000px;
+	height: 100%;
 }
 
 h1{
@@ -10,6 +10,10 @@ h1{
 	padding-top: 50px;
 	padding-right: 10px;
 	width: 100%;
+}
+h2{
+	text-align: center;
+	color: black;
 }
 a{
 	background: #d9d9d9;
@@ -28,26 +32,26 @@ a{
 }
 .parkingLot{
 	margin: auto;
-	margin-top: -50px;
+	margin-top: -90px;
 	width: 750px;	
 }
 
 .login{
 	position: relative;
-	top: 5%;
+	top: 1%;
 	margin-left: 5px;
 }
 
 .register{
 	position: relative;
-	top: 5%;
+	top: 1%;
 	margin-left: -5px;
 	
 }
 
 .profile{
 	position: relative;
-	top: 5%;
+	top: 1%;
 	margin-left: 25%;
 }
 
