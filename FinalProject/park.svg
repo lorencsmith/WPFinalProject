@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <rect x="42.939" y="53.3" width="404.58" height="294.982" style="fill: rgb(48, 48, 48); stroke-width: 8;"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="105.129" y1="111.894" x2="42.151" y2="111.894"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="101.268" y1="115.575" x2="101.267" y2="53.552"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="105.767" y1="208.176" x2="42.789" y2="208.176"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="105.916" y1="249.046" x2="42.938" y2="249.046"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="105.768" y1="290.869" x2="42.79" y2="290.869"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="101.733" y1="287.219" x2="102.688" y2="347.334" transform="matrix(-1, 0, 0, -1, 204.421002, 634.552975)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="382.106" y1="111.559" x2="446.991" y2="111.559"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="388.544" y1="346.603" x2="388.543" y2="284.58"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="447.042" y1="207.538" x2="384.064" y2="207.538"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="447.5" y1="249.523" x2="384.522" y2="249.523"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="447.637" y1="288.548" x2="384.659" y2="288.548"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="385.675" y1="115.586" x2="385.674" y2="53.563"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="147.559" y1="288.142" x2="148.514" y2="348.257" transform="matrix(-1, 0, 0, -1, 296.073002, 636.398987)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="195.265" y1="288.412" x2="196.22" y2="348.527" transform="matrix(-1, 0, 0, -1, 391.484982, 636.938962)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="243.379" y1="288.219" x2="244.334" y2="348.334" transform="matrix(-1, 0, 0, -1, 487.713017, 636.552977)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="287.242" y1="288.219" x2="288.197" y2="348.334" transform="matrix(-1, 0, 0, -1, 575.438967, 636.552977)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="146.098" y1="53.6" x2="147.053" y2="113.715" transform="matrix(-1, 0, 0, -1, 293.150998, 167.315006)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="193.482" y1="53.694" x2="194.438" y2="113.809" transform="matrix(-1, 0, 0, -1, 387.919976, 167.50299)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="241.293" y1="53.694" x2="242.248" y2="113.809" transform="matrix(-1, 0, 0, -1, 483.541012, 167.50299)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="286.116" y1="53.694" x2="287.071" y2="113.809" transform="matrix(-1, 0, 0, -1, 573.186994, 167.50299)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="334.355" y1="53.268" x2="335.31" y2="113.382" transform="matrix(-1, 0, 0, -1, 669.665028, 166.650005)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="106.586" y1="161.141" x2="43.608" y2="161.141"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="447.571" y1="159.696" x2="384.593" y2="159.696"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="150.502" y1="160.714" x2="151.457" y2="244.74" transform="matrix(-1, 0, 0, -1, 301.958982, 405.454009)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="197.886" y1="160.845" x2="198.842" y2="244.872" transform="matrix(-1, 0, 0, -1, 396.727988, 405.716982)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="245.697" y1="160.845" x2="246.652" y2="244.872" transform="matrix(-1, 0, 0, -1, 492.348995, 405.716982)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="290.52" y1="160.845" x2="291.475" y2="244.872" transform="matrix(-1, 0, 0, -1, 581.995007, 405.716982)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="338.759" y1="160.25" x2="339.714" y2="244.275" transform="matrix(-1, 0, 0, -1, 678.473041, 404.524993)"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="341.615" y1="202.561" x2="147.637" y2="202.561"/>
+  <path d="M 392.176 412.317 L 403.656 432.202 L 380.696 432.202 L 392.176 412.317 Z" transform="matrix(0.999989, 0.004474, -0.004475, 0.999991, -28.015345, -116.3998)" style="fill: rgb(218, 224, 26);" bx:shape="triangle 380.696 412.317 22.96 19.885 0.5 0 1@525b25eb"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="362.552" y1="310.724" x2="362.553" y2="337.442" transform="matrix(-1, 0, 0, -1, 725.104982, 648.166015)"/>
+  <path d="M 392.176 412.317 L 403.656 432.202 L 380.696 432.202 L 392.176 412.317 Z" transform="matrix(-0.999961, 0.008702, -0.008703, -0.999963, 717.727012, 747.098652)" style="fill: rgb(218, 224, 26);" bx:shape="triangle 380.696 412.317 22.96 19.885 0.5 0 1@525b25eb" bx:origin="0.524 0.985"/>
+  <line style="stroke-width: 8; fill: rgb(225, 232, 33); stroke: rgb(218, 224, 26);" x1="321.477" y1="298.443" x2="321.478" y2="325.161" transform="matrix(0.999913, -0.013177, 0.013177, 0.999913, -4.1705, 4.260778)" bx:origin="-225.121 0.755"/>
+</svg>

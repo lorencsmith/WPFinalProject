@@ -1,0 +1,54 @@
+body {
+	background: #d9d9d9;
+	height: 1000px;
+}
+
+h1{
+	background: linear-gradient(grey, black);
+	color: white;
+	text-align: right;
+	padding-top: 50px;
+	padding-right: 10px;
+	width: 100%;
+}
+a{
+	background: #d9d9d9;
+	position: relative;
+	top: 30%;
+	left: 5px;
+	padding: 5px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+.menu{
+	position: fixed;
+	background: black;
+	height: 100%;
+	margin-top: -25px;
+}
+.parkingLot{
+	margin: auto;
+	margin-top: -50px;
+	width: 750px;	
+}
+
+.login{
+	position: relative;
+	top: 5%;
+	margin-left: 5px;
+}
+
+.register{
+	position: relative;
+	top: 5%;
+	margin-left: -5px;
+	
+}
+
+.profile{
+	position: relative;
+	top: 5%;
+	margin-left: 25%;
+}
+
+
