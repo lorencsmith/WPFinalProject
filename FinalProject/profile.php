@@ -1,5 +1,10 @@
 <?php
-
+	$dbhost = "localhost";
+	$dbuser = "root";
+	$dbpass = "";
+	$db = "project4";
+	
+	$con = new mysqli($dbhost, $dbuser, $dbpass, $db) or die("Connect failed: %s\n" . $conn -> error);
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -12,7 +17,9 @@
 </head>
 
 <body>
-	
+	<?php
+		$profile = mysql_query(SELECT Username, Email, Date FROM Register)
+	?>
 </body>
 
 </html>
