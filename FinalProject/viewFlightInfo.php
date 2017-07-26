@@ -2,7 +2,7 @@
 
 <head>
 
-<title>View album</title>
+<title>View Flight Info</title>
 
 <link rel="stylesheet" href="style.css" />
 
