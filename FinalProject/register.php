@@ -13,7 +13,7 @@
 
 <body>
 	
-	<form action="http://codd.cs.gsu.edu/~lsmith147/FinalProject/Main.html"
+	<form action="Main.html"
       method="post"
       id="name_form"
       onreset="return window.confirm('Are you sure you want to clear the form?');"
@@ -22,7 +22,7 @@
 		<input type = "text" id = "fN" name = "firstName"><br>
 		
 		<label for = "midI" id = "mI_label"> Middle Initial: </label>
-		<input type = "text" id = "midI" name = "firstName"><br>
+		<input type = "text" id = "midI" name = "midInit"><br>
 		
 		<label for = "lN" id = "lN_label"> Last Name: </label>
 		<input type = "text" id = "lN" name = "lastName"><br>
@@ -30,14 +30,23 @@
 		<label for = "ad" id = "ad_label"> Address: </label>
 		<input type = "text" id = "ad" name = "address"><br>
 		
+		<label for = "city" id = "city_label"> City: </label>
+		<input type = "text" id = "city" name = "city"><br>
+		
+		<label for = "state" id = "state_label"> State: </label>
+		<input type = "text" id = "state" name = "state"><br>
+		
 		<label for = "pN" id = "pN_label"> Phone Number: </label>
-		<input type = "text" id = "pN" name = "Phone Number" value = "(###) ###-####"><br>
+		<input type = "text" id = "pN" name = "PhoneNumber" value = "(###) ###-####"><br>
+		
+		<label for = "email" id = "email_label"> E-mail: </label>
+		<input type = "text" id = "email" name = "email"><br>
 		
 		<label for = "pw" id = "pw_label"> Password: </label>
-		<input type = "text" id = "pw" name = "pass"><br>
+		<input type = "password" id = "pw" name = "pass"><br>
 		
 		<label for = "pwC" id = "pwC_label"> Confirm Password: </label>
-		<input type = "text" id = "pwC" name = "pass Confirm"><br>
+		<input type = "password" id = "pwC" name = "pass Confirm"><br>
 		
 		<label for = "bM" id = "bM_label"> Birthday (optional): </label>
 		<input type = "text" id = "bM" name = "month" value = "month">
@@ -46,10 +55,9 @@
 
 		<br>
 		
-		<input type = "submit" value = "Submit">
-		<input type = "reset" value = "Reset">
+		<input type = "submit" value = "submit">
+		<input type = "reset" value = "reset">
 		
-
 	</form>
 	
 </body>
