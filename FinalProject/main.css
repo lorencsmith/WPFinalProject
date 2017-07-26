@@ -28,8 +28,8 @@ a{
 }
 img{
 	position: relative;
-	left: 10%;
-	margin-top: -15px;
+	left: 175px;
+	margin-top: -5px;
 	height: 75%;
 	width: 80%;
 }
@@ -49,7 +49,8 @@ img{
 .login{
 	position: relative;
 	top: 1%;
-	margin-left: 5px;
+	margin-left: 15%;
+	
 }
 
 .register{
@@ -57,9 +58,10 @@ img{
 	top: 1%;
 	margin-left: -5px;
 	
+	
 }
 
-.profile{
+.align{
 	margin-left: 25%;
 }
 

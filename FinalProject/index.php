@@ -17,9 +17,11 @@
 		<a href = "login.php" class = "login"> Login</a>
 		<a href = "register.php" class = "register"> Register</a>
 		<br>
-		<a href = "profile.php" class = "profile"> Profile</a>
-		<a href = "flights.php" class >
-		<a href = "rental.php" class = "profile"> Car Rental </a>
+		<a href = "profile.php" class = "align"> Profile</a>
+		<a href = "rental.php" class = "align"> Car Rental</a>
+		<a href = "parking.php" class = "align"> Parking</a>
+		<br>
+		<a href = "flights.php" class = "align"> Flights</a>
 		</form>
 	</div>
 	<div>
